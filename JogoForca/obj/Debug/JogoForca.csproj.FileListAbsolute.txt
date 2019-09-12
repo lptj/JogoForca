@@ -1,0 +1,46 @@
+C:\Users\201160102\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+G:\Faculdade\Introdução a Programação Orientada a Objetos\JogoForca\JogoForca\obj\Debug\JogoForca.frmPrincipal.resources
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+C:\Users\201160102\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\201160102\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.frmPrincipal.resources
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+C:\Users\201160102\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.frmPrincipal.resources
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\Lucas\Desktop\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.frmPrincipal.resources
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.Cache
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.csprojResolveAssemblyReference.cache
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.frmPrincipal.resources
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.cache
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+D:\Documentos\Projetos Programação\Visual Studio\JogoForca\JogoForca\obj\Debug\JogoForca.pdb
